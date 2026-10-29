@@ -24,5 +24,5 @@
 - [ ] 农学兄弟加入，进行真实植物（薄荷/小番茄）对照实验
 
 ## 👥 团队 (Team)
-*   **@你的GitHub用户名** (Software Engineer / Hardware Hacker)
-*   **@农学兄弟的GitHub用户名** (Agronomy Expert)
+*   
+* 
