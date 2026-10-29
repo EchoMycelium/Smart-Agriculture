@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-WIP%20(Work%20In%20Progress)-orange)
 # 🌿 Smart-Agriculture | 赛博农场混合网络
 
 > "Where silicon meets soil. 望冰冷的硅板上也能伸出青草。"
