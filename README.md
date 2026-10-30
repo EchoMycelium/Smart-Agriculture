@@ -3,7 +3,7 @@
 
 > "Where silicon meets soil. 望冰冷的硅板上也能伸出青草。"
 
-本项目是 [SylvanStack](https://github.com/SylvanStack) 实验室的第一个孵化项目。致力于打造一套低成本、高可靠性的野外农业物联网数据采集系统。
+本项目是 [SylvanStack](https://github.com/SylvanStack) 工作室的第一个孵化项目。致力于打造一套低成本、高可靠性的野外农业物联网数据采集系统。
 
 ## 🛠️ 硬件架构 (Hardware)
 *   **核心主控**：ESP32 (支持 Wi-Fi & Bluetooth)
